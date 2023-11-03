@@ -1,7 +1,7 @@
 # Complex-Router-Setups
 This Elaborates the Working of routers with RIP protocol having Telnet, Password and many more others.
-# RIP Routing Protocol Implementation
-
+# RIP Routing Protocol Implementation.
+![image](https://github.com/RoggersAnguzu/Complex-Router-Setups/assets/141458053/3da5ad21-33fd-4040-bf04-fb0e0343c21f)
 ## Overview
 
 This repository contains an implementation of the Routing Information Protocol (RIP), a dynamic routing protocol used in computer networks. RIP is designed to distribute routing information within a network of routers. This README provides an overview of the RIP implementation and additional information related to Telnet, Passwords, Emails, DNS, and Web services.
